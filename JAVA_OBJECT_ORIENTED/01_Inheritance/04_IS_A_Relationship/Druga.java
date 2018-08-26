@@ -1,0 +1,2 @@
+class Druga extends Prva{
+}

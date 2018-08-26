@@ -1,0 +1,2 @@
+class Treca extends Druga{
+}
